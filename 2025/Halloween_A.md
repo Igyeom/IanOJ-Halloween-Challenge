@@ -52,6 +52,4 @@ AA
 22
 ```
 
-<a style="font-size: 16pt;" href="/submit/A">Submit</a>
-<span style="font-size: 16pt;">|</span>
-<a style="font-size: 16pt;" href="/problemset">Back</a>
+<a style="font-size: 16pt;" href="https://ianoj.com/problem/104">Submit</a>
