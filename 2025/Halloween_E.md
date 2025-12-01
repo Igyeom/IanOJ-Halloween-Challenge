@@ -46,8 +46,4 @@ On the first line, output the number of claps that result from the procedure des
 ```
 2571259560028
 ```
-
-
-<a style="font-size: 16pt;" href="/submit/E">Submit</a>
-<span style="font-size: 16pt;">|</span>
-<a style="font-size: 16pt;" href="/problemset">Back</a>
+<a style="font-size: 16pt;" href="https://ianoj.com/problem/108">Submit</a>
