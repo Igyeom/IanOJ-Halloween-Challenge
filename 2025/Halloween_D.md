@@ -50,7 +50,4 @@ On the first line, output the answer described in the problem statement.
 ```text
 869107886
 ```
-
-<a style="font-size: 16pt;" href="/submit/D">Submit</a>
-<span style="font-size: 16pt;">|</span>
-<a style="font-size: 16pt;" href="/problemset">Back</a>
+<a style="font-size: 16pt;" href="https://ianoj.com/problem/107">Submit</a>
