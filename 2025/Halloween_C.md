@@ -54,6 +54,4 @@ On the first line, output two space-separated integers: the $x$-coordinate and t
 606 26
 ```
 
-<a style="font-size: 16pt;" href="/submit/C">Submit</a>
-<span style="font-size: 16pt;">|</span>
-<a style="font-size: 16pt;" href="/problemset">Back</a>
+<a style="font-size: 16pt;" href="https://ianoj.com/problem/106">Submit</a>
