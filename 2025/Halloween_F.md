@@ -4,9 +4,9 @@ Points: <b style="color: limegreen;">625</b>
 
 ## Problem Statement
 Given a positive integer $N$, find the number of occurrences of each of the 26 letters of the alphabet when playing Fizz Buzz with all integers $x$ within the range $1$ to $N$ (inclusive), using the following rules:
-- If $x$ is divisible by both 3 and 5, write down `FizzBuzz`.
-- If $x$ is divisible by 3 only, write down `Fizz`.
-- If $x$ is divisible by 5 only, write down `Buzz`.
+- If $x$ is divisible by both 3 and 5, write down `fizzbuzz`.
+- If $x$ is divisible by 3 only, write down `fizz`.
+- If $x$ is divisible by 5 only, write down `buzz`.
 - If none of the above conditions are met, write down $x$ **in words**.
 
 To prevent ambiguity, the use of the word `and` as a separator should not be considered (e.g. `103` is not `one hundred and three`). Hence, some examples for larger numbers include:
@@ -14,26 +14,26 @@ To prevent ambiguity, the use of the word `and` as a separator should not be con
 - `5068` becomes `five thousand sixty eight` using this ruleset.
 - `6749` becomes `six thousand seven hundred forty nine` using this ruleset.
 - `749449` becomes `seven hundred forty nine thousand four hundred forty nine` using this ruleset.
-- `749450` becomes `Buzz` using this ruleset.
+- `749450` becomes `buzz` using this ruleset.
 - `348744621833095001` becomes `three hundred forty eight quadrillion seven hundred forty four trillion six hundred twenty one billion eight hundred thirty three million ninety five thousand one` using this ruleset.
 
 If $N = 15$, your program should count occurrences of each letter in the following string:
 ```text
 one
 two
-Fizz
+fizz
 four
-Buzz
-Fizz
+buzz
+fizz
 seven
 eight
-Fizz
-Buzz
+fizz
+buzz
 eleven
-Fizz
+fizz
 thirteen
 fourteen
-FizzBuzz
+fizzbuzz
 ```
 
 ## Input
