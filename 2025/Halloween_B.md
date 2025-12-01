@@ -61,6 +61,4 @@ QKU
 CAVE
 ```
 
-<a style="font-size: 16pt;" href="/submit/B">Submit</a>
-<span style="font-size: 16pt;">|</span>
-<a style="font-size: 16pt;" href="/problemset">Back</a>
+<a style="font-size: 16pt;" href="https://ianoj.com/problem/105">Submit</a>
